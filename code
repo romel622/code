@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-"""
-QuickBite: Food Delivering System  -  Console Prototype
-Author / User: Romel Arado (UM Campus Canteen)
-
-A text-based version of the QuickBite Figma prototype (UM Campus Canteen).
-Students browse the canteen menu, build a cart, place an order in advance,
-track its status, and claim it at the canteen when it is ready.
-
-Run it with:
-    python quickbite_console.py
-"""
 
 import os
 import re
